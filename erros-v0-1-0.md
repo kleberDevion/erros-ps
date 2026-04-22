@@ -19,8 +19,6 @@ Ja aqui e o rpoblema sitado acima eu fui usar argumnentos para a req, e nao acei
 <img src="erro3.png" alt="Texto" width="500" height="300">
 
 
-E também ao usar somente ``post("Ola" {nome})```
-a string vem colada uma com a outra
-
-<img src="erro4.png" alt="Texto" width="400" height="300">
-
+## Erro de execuçao da sua parte
+voce nao aplicou o 'as' paar renomeacao de algo
+ele eve ser para renomear coisas assim como em Python
