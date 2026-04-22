@@ -20,5 +20,5 @@ Ja aqui e o rpoblema sitado acima eu fui usar argumnentos para a req, e nao acei
 
 
 ## Erro de execuçao da sua parte
-voce nao aplicou o 'as' paar renomeacao de algo
+voce nao aplicou o 'as' para renomeacao de algo
 ele eve ser para renomear coisas assim como em Python
